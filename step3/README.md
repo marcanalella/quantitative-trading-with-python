@@ -6,9 +6,9 @@ We'll be focusing on 2 very important concepts:
 
 Moving Averages
 
-a. Simple Moving Average
-b. Cumulative Moving Average
-c. Exponential Moving Average
+1. Simple Moving Average
+2. Cumulative Moving Average
+3. Exponential Moving Average
 
 Volatility Calculation
 In finance, a moving average (MA) is a stock indicator that is commonly used to analyze stock prices by creating a series of averages of different subsets of the full data set. The reason for calculating the moving average of a stock is to help smooth out the price data by creating a constantly updated average price. Generally, types of moving averages include simple, cumulative or weighted forms.
